@@ -1,8 +1,6 @@
 # Parallax-Mapping-in-Unity-Shader-Graph
 
-Node code used in the tutorial
-
-[Tutorial](https://youtu.be/)
+Node code used in the [Tutorial](https://youtu.be/LKhGqKYOmbo)
 
 [My Material Pack](https://www.assetstore.unity3d.com/#!/content/136692)
 
